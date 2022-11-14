@@ -3,7 +3,7 @@
 ## ngrok alternative
 in web site 
 https://localtonet.com/
-but my tool is just starter and stoper the port with api without login in website 
+but my tool is just starter and stoper the port with api without login in localtonet website 
 
 ## for install 
 ```sh

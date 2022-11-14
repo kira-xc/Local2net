@@ -6,10 +6,10 @@ https://localtonet.com/
 but my tool is just starter and stoper the port with api without login in website 
 
 ## for install 
-```bash
+```zsh
 git clone https://github.com/kira-xc/Localtonet
 ```
-```bash
+```zsh
 pip3 install -r requirements.txt
 ```
 
@@ -19,6 +19,6 @@ before use this go to https://localtonet.com/ add ports or tunnels configuring a
 
 with command
 
-```bash
+```zsh
 python3 local2netc.py
 ```

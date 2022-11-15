@@ -1,4 +1,4 @@
-# Localtonet
+# Localtonet api (local2netc.py)
 
 ## ngrok alternative
 in web site 

@@ -11,7 +11,7 @@ Now .
 
 my personal tool is just for start and stop the port without the website . 
 
-am using the official api of localtonet convert to python tool .
+am using the official api of localtonet by converting to python tool .
 
 for use and install :
 

@@ -1,9 +1,13 @@
 # Localtonet api (local2netc.py)
 
 ## ngrok alternative
-in web site 
-https://localtonet.com/
-but my tool is just starter and stoper the port with api without login in localtonet website 
+ngrok alternative web site https://localtonet.com/ its the best just register here and download the tool official https://localtonet.com/download .
+
+when you login . you can open ports in the dashboard in the website https://localtonet.com/
+now 
+my personal tool is just for start and stop the port without the website . am using the official api of localtonet convert to python tool 
+
+for use and install :
 
 ## for install 
 ```sh
